@@ -1,0 +1,33 @@
+.section {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content--1 {
+  background-color: aquamarine;
+}
+
+.content--2 {
+  background-color: bisque;
+}
+
+.content--3 {
+  background-color: brown;
+}
+
+.content--4 {
+  background-color: blue;
+}
+
+.content--5 {
+  background-color: blueviolet;
+}
